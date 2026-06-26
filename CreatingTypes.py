@@ -1,0 +1,5 @@
+cust_name = str("Jackman")
+cust_id = int(8001)
+balance = int(3800)
+is_active = bool(True)
+print(f"{cust_name} with ID {cust_id} has ${balance} and still active: {is_active}")    
